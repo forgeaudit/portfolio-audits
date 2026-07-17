@@ -1,23 +1,34 @@
+
+
+Readme · MD
+![ForgeAudit](https://raw.githubusercontent.com/forgeaudit/assets/main/forgeaudit_banner.jpg)
+ 
 # ForgeAudit — Portfolio Audits
-
+ 
 Public track record of our team's security research.
-
+ 
 This repository showcases findings from our team, submitted individually to public contest and bug bounty platforms (Code4rena, Sherlock, Cantina, Immunefi, Codehawks). Meet the team behind these findings on [forgeaudit.io](https://forgeaudit.io).
-
+ 
 ---
-
+ 
+## About
+ 
+ForgeAudit is a smart contract security firm dedicated to protecting Web3 protocols from vulnerabilities. We deliver deep security reviews uncovering logic flaws and attack vectors before they become exploits, across DeFi, lending, staking, DEX, cross-chain infrastructure, etc.
+ 
+---
+ 
 ## Official Audits
-
+ 
 Coming soon.
-
+ 
 ---
-
+ 
 ## Public Competition Findings
-
+ 
 | Protocol | Type | Platform | Total Findings & Severity | Link |
 |---|---|---|---|---|
-| Mystic Monorepo | RWA | Cantina | 7 High, 5 Medium | [Link](https://cantina.xyz/competitions/c160af78-28f8-47f7-9926-889b3864c6d8) |
 | Concrete | Yield Aggregator | Code4rena | 6 High, 6 Medium | [Link](https://code4rena.com/audits/2024-11-concrete) |
+| Mystic Monorepo | RWA | Cantina | 5 High, 5 Medium | [Link](https://cantina.xyz/competitions/c160af78-28f8-47f7-9926-889b3864c6d8/leaderboard) |
 | AI Arena | GameFi/NFT | Code4rena | 4 High, 1 Medium | [Link](https://code4rena.com/audits/2024-02-ai-arena) |
 | Alchemix V3 | Lending/Borrowing | Immunefi | 1 Critical, 3 High, 1 Medium | [Link](https://immunefi.com/audit-competition/alchemix-v3-audit-competition/leaderboard/) |
 | Renzo | Liquid Staking | Code4rena | 3 High, 1 Medium | [Link](https://code4rena.com/audits/2024-04-renzo) |
@@ -54,11 +65,12 @@ Coming soon.
 | LivePeer | Delegated Staking | Immunefi | 1 High | Private disclosure |
 | Metronome | Synthetic Asset | Immunefi | 1 Critical | Private disclosure |
 | T3rn | Cross-Chain | Remedy | 1 High | Private disclosure |
-
+ 
 ---
-
+ 
 ## Contact
-
-Interested in working with us? Reach out at [contact@forgeaudit.io](mailto:contact@forgeaudit.io) or visit [forgeaudit.io](https://forgeaudit.io).
-
+ 
+Interested in working with us? Reach out at [contact@forgeaudit.io](mailto:contact@forgeaudit.io) or [request an audit](https://forgeaudit.io/#request-audit).
+ 
 [Website](https://forgeaudit.io) · [X](https://x.com/ForgeAudit) · [LinkedIn](https://linkedin.com/company/forgeaudit)
+ 
