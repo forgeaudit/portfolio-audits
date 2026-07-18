@@ -43,7 +43,7 @@ Coming soon.
 | Ethos Network | SocialFi / Reputation Markets | 🐍 Sherlock | 1 High, 1 Medium | [Link](https://audits.sherlock.xyz/contests/675) |
 | Abracadabra Mimswap | CDP | 🔺 Code4rena | 1 High, 1 Medium | [Link](https://code4rena.com/audits/2024-03-abracadabra-mimswap) |
 | Venus Prime | Yield-Optimizer | 🔺 Code4rena | 1 High, 1 Medium | [Link](https://code4rena.com/audits/2023-09-venus-prime) |
-| Gaama | Perp Vault | 🦅 Codehawks | 1 High, 1 Low | [Link](https://codehawks.cyfrin.io/c/2025-02-gamma/results) |
+| Gaama | Perp Vault | 🦅 Codehawks | 1 High| [Link](https://codehawks.cyfrin.io/c/2025-02-gamma/results) |
 | Next Generation | Stablecoin | 🔺 Code4rena | 1 High | [Link](https://code4rena.com/audits/2025-01-next-generation) |
 | PoolTogether | Prize Saving | 🔺 Code4rena | 1 High | [Link](https://code4rena.com/audits/2024-03-pooltogether) |
 | Infinifi Protocol | Vault | ⚔️ Cantina | 1 High | [Link](https://cantina.xyz/competitions/2ac7f906-1661-47eb-bfd6-519f5db0d36b) |
